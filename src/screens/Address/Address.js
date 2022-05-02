@@ -1,8 +1,5 @@
-// In App.js in a new project
-
 import * as React from 'react';
 import {View, Text, TouchableOpacity, TextInput} from 'react-native';
-import Colors from '../../common/Colors';
 import SimpleButton from '../../components/Button/SimpleButton';
 import styles from './styles';
 
